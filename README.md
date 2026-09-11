@@ -5,7 +5,6 @@
 
 > **Problem to be solved**: Ummm?
 
-*Replace every bracketed prompt below with your team's information. Delete this instruction and any unused placeholder text before committing the completed charter.*
 
 ## Team Charter
 
