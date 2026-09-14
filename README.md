@@ -14,7 +14,7 @@ Domioni Inc
 
 ### Team Members
 
-Aidan Jones
+Aidan Jones,
 Alex Domioni
 
 
